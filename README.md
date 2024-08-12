@@ -15,7 +15,7 @@ Features
 
 Installation
 ------------
-Install from the Firefox Add-Ons [WebStore](https://addons.mozilla.org/de/firefox/)
+Install from Releases
 
 Options
 -----
